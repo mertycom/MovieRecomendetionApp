@@ -1,0 +1,4 @@
+rootProject.name = 'MovieRecomendetionApp'
+include 'movie-service'
+include 'recommendation-service'
+
